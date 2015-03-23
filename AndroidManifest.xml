@@ -3,7 +3,7 @@
     package="com.example.sahana"
     android:versionCode="1"
     android:versionName="1.0" >
-
+<!-- Hamza Tahir added this comment -->
     <uses-sdk
         android:minSdkVersion="8"
         android:targetSdkVersion="21" />
@@ -23,5 +23,6 @@
             </intent-filter>
         </activity>
     </application>
+	
 
 </manifest>
